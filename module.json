@@ -1,0 +1,23 @@
+{
+  "id": "kurosawa-mode",
+  "title": "Kurosawa Mode",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "scripts/kurosawamode.js",
+    "scripts/filters.js",
+    "scripts/grain.js"
+  ],
+  "authors": [
+    {
+      "name": "AndrewsChetera",
+      "flags": {}
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
