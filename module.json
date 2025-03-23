@@ -18,6 +18,6 @@
     }
   ],
   "url": "https://github.com/andrewschetera/kurosawa-mode",
-  "manifest": "https://raw.githubusercontent.com/andrewschetera/kurosawa-mode/refs/heads/main/module.json",
+  "manifest": "https://github.com/andrewschetera/kurosawa-mode/releases/download/1.0.0/module.zip",
   "download": "https://github.com/andrewschetera/kurosawa-mode/archive/refs/heads/main.zip"
 }
