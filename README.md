@@ -1,6 +1,6 @@
 # Kurosawa Mode para Foundry VTT
 
-![Alt text](kurosawamode.jpg)
+![Alt text](kurosawa mode.jpg)
 
 Este módulo oferece um filtro de filme antigo totalmente customizável.
 
