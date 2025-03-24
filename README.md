@@ -1,5 +1,7 @@
 # Kurosawa Mode para Foundry VTT
 
+![Alt text](kurosawamode.jpg)
+
 Este módulo oferece um filtro de filme antigo totalmente customizável.
 
 Modo Preto e Branco: Cria um filtro preto e branco com controle de brilho e contraste (é possível ativar o efeito para que ele tenha efeito também sobre os dados 3d).
