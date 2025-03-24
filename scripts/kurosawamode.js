@@ -1,8 +1,8 @@
 Hooks.on('init', () => {
     // Registra as configurações do módulo
     game.settings.register('kurosawa-mode', 'enabled', {
-        name: 'Ativar Kurosawa Mode',
-        hint: 'Ativa ou desativa todas as configurações do módulo.',
+        name: 'KUROSAWA.ENABLE.NAME',
+        hint: 'KUROSAWA.ENABLE.HINT',
         scope: 'client',
         config: true,
         type: Boolean,
@@ -17,8 +17,8 @@ Hooks.on('init', () => {
     });
 
     game.settings.register('kurosawa-mode', 'blackAndWhite', {
-        name: 'Ativar Filtro Preto e Branco',
-        hint: 'Ativa ou desativa o filtro preto e branco em #board.',
+        name: 'KUROSAWA.BLACKWHITE.NAME',
+        hint: 'KUROSAWA.BLACKWHITE.HINT',
         scope: 'client',
         config: true,
         type: Boolean,
@@ -31,8 +31,8 @@ Hooks.on('init', () => {
     });
 
     game.settings.register('kurosawa-mode', 'filter3dData', {
-        name: 'Ativar Filtro em Dados 3D',
-        hint: 'Adiciona ou remove o parâmetro canvas ao filtro.',
+        name: 'KUROSAWA.FILTER3D.NAME',
+        hint: 'KUROSAWA.FILTER3D.HINT',
         scope: 'client',
         config: true,
         type: Boolean,
@@ -45,8 +45,8 @@ Hooks.on('init', () => {
     });
 
     game.settings.register('kurosawa-mode', 'brightness', {
-        name: 'Brilho',
-        hint: 'Ajusta o brilho do efeito preto e branco.',
+        name: 'KUROSAWA.BRIGHTNESS.NAME',
+        hint: 'KUROSAWA.BRIGHTNESS.HINT',
         scope: 'client',
         config: true,
         type: Number,
@@ -59,8 +59,8 @@ Hooks.on('init', () => {
     });
 
     game.settings.register('kurosawa-mode', 'contrast', {
-        name: 'Contraste',
-        hint: 'Ajusta o contraste do efeito preto e branco.',
+        name: 'KUROSAWA.CONTRAST.NAME',
+        hint: 'KUROSAWA.CONTRAST.HINT',
         scope: 'client',
         config: true,
         type: Number,
@@ -73,8 +73,8 @@ Hooks.on('init', () => {
     });
 
     game.settings.register('kurosawa-mode', 'grainEnabled', {
-        name: 'Ativar Film Grain',
-        hint: 'Ativa ou desativa o efeito de film grain.',
+        name: 'KUROSAWA.GRAINENABLE.NAME',
+        hint: 'KUROSAWA.GRAINENABLE.HINT',
         scope: 'client',
         config: true,
         type: Boolean,

@@ -1,0 +1,14 @@
+{
+    "KUROSAWA.ENABLE.NAME": "Enable Kurosawa Mode",
+    "KUROSAWA.ENABLE.HINT": "Enable or disable all module settings.",
+    "KUROSAWA.BLACKWHITE.NAME": "Enable Black and White Filter",
+    "KUROSAWA.BLACKWHITE.HINT": "Enable or disable the black and white filter.",
+    "KUROSAWA.FILTER3D.NAME": "Enable Filter on 3D Dice",
+    "KUROSAWA.FILTER3D.HINT": "Enable or disable the black and white effect on 3d dice.",
+    "KUROSAWA.BRIGHTNESS.NAME": "Brightness",
+    "KUROSAWA.BRIGHTNESS.HINT": "Adjust the brightness of the black and white effect.",
+    "KUROSAWA.CONTRAST.NAME": "Contrast",
+    "KUROSAWA.CONTRAST.HINT": "Adjust the contrast of the black and white effect.",
+    "KUROSAWA.GRAINENABLE.NAME": "Enable Film Grain",
+    "KUROSAWA.GRAINENABLE.HINT": "Enable or disable the film grain effect."
+}

@@ -1,15 +1,28 @@
 {
   "id": "kurosawa-mode",
   "title": "Kurosawa Mode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
-  "esmodules": [
+  "scripts": [
     "scripts/kurosawamode.js",
     "scripts/filters.js",
     "scripts/grain.js"
+  ],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português Brasileiro",
+      "path": "lang/pt-BR.json",
+      "flags": {}
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
   ],
   "authors": [
     {

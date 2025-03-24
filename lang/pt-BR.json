@@ -1,0 +1,14 @@
+{
+    "KUROSAWA.ENABLE.NAME": "Ativar Modo Kurosawa",
+    "KUROSAWA.ENABLE.HINT": "Ativar ou Desativar todas as configurações do módulo.",
+    "KUROSAWA.BLACKWHITE.NAME": "Ativar Filtro Preto e Branco",
+    "KUROSAWA.BLACKWHITE.HINT": "Ativar ou desativar filtro preto e branco.",
+    "KUROSAWA.FILTER3D.NAME": "Ativar filtro nos dados 3d",
+    "KUROSAWA.FILTER3D.HINT": "Ativar ou Desativar o filtro preto e branco nos dados 3d.",
+    "KUROSAWA.BRIGHTNESS.NAME": "Brilho",
+    "KUROSAWA.BRIGHTNESS.HINT": "Ajuste o brilho do efeito preto e branco.",
+    "KUROSAWA.CONTRAST.NAME": "Contraste",
+    "KUROSAWA.CONTRAST.HINT": "Ajuste o contraste do efeito preto e branco.",
+    "KUROSAWA.GRAINENABLE.NAME": "Ativar FilmGrain",
+    "KUROSAWA.GRAINENABLE.HINT": "Ativar ou desativar o efeito de filmgrain."
+}
